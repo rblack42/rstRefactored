@@ -1,6 +1,9 @@
 # compiled python
 *.pyc
 
+# virtualenv
+_venv
+
 # vim
 *.swp
 
