@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/rblack/_projects/RefactoringReST","disabled":false},"/tmp/vagrant-puppet-3/manifests":{"owner":"root","guestpath":"/tmp/vagrant-puppet-3/manifests","hostpath":"/Users/rblack/_projects/RefactoringReST/puppet/manifests","disabled":false}}}

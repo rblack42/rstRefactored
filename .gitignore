@@ -1,0 +1,12 @@
+# compiled python
+*.pyc
+
+# vim
+*.swp
+
+# sphinx
+docs/_build
+
+# Mac
+.DS_Store
+
