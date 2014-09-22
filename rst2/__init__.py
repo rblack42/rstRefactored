@@ -1,6 +1,6 @@
 from flask import Flask
 from flask.ext.bootstrap import Bootstrap
-from pylit.frontend import frontend as frontend_blueprint
+from rst2.frontend import frontend as frontend_blueprint
 
 bootstrap = Bootstrap()
 

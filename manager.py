@@ -4,10 +4,10 @@
     manager
     ~~~~~~~
 
-    Launch script for PyLit6 application
+    Launch script for rst2 application
 """
 from flask.ext.script import Manager, Shell
-from pylit import create_app
+from rst2 import create_app
 
 app = create_app()
 app.debug = True

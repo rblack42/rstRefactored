@@ -1,0 +1,18 @@
+document =
+    { block }+ $ 
+    ;
+
+blank =
+    [ ?/[ \t]+/? ] 
+    ;
+
+blankline = ?/[ \t]*\n/? ;
+
+block = 
+      blank line | blankline
+    ;
+
+line =
+    /[^ \t].*\n/
+    ;
+
